@@ -1,0 +1,6 @@
+boy=int(input("boy giriniz:"))
+kilo=int(input("kilo giriniz:"))
+vki=kilo/(boy*boy)
+sonuc=round(vki,5)
+#print(vki)
+print(sonuc)
